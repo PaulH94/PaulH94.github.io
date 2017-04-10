@@ -1,2 +1,2 @@
-# SirMeerkat.github.io
+# paulh94.github.io/
 This is the repository for my personal site.
